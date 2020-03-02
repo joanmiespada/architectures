@@ -4,7 +4,7 @@ Example of architectures:
 
 * Standard architect
 
-![Alt text](https://raw.git-hub.com/joanmiespada/architectures/master/Standart-architecture.svg?sanitize=true)
+![Alt text](https://raw.github.com/joanmiespada/architectures/master/Standart-architecture.svg?sanitize=true)
 
 * Publisher
 
